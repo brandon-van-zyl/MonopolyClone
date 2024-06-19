@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonopolyClone", "MonopolyClone\MonopolyClone.csproj", "{286A576E-BE11-44C9-BBC2-97C7E9C7B80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{2255B741-EF62-442B-82F9-0DF82BFBBDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286A576E-BE11-44C9-BBC2-97C7E9C7B80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286A576E-BE11-44C9-BBC2-97C7E9C7B80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286A576E-BE11-44C9-BBC2-97C7E9C7B80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286A576E-BE11-44C9-BBC2-97C7E9C7B80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2255B741-EF62-442B-82F9-0DF82BFBBDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2255B741-EF62-442B-82F9-0DF82BFBBDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2255B741-EF62-442B-82F9-0DF82BFBBDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2255B741-EF62-442B-82F9-0DF82BFBBDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
